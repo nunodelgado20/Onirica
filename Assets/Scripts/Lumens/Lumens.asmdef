@@ -1,0 +1,20 @@
+{
+    "name": "Lumens",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0a54d685cdfdae94a8fcecfd2e7789f1",
+        "GUID:c88561a35a2f87f49bcc2241e78ecabe",
+        "GUID:a93faccc33075694f801928f678a26bc",
+        "GUID:47f1f99e872e4014d959d1ff9cfeac42",
+        "GUID:a6efd1b7079c00645b8dc34c12e0dd41"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

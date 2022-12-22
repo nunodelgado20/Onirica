@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="869dc795-a2bf-41ed-a38e-45f40de53eec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Collapsables/ShaderTransparencyEnabler.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Collapsables/ShaderTransparencyEnabler.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BrackeysGameJam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BrackeysGameJam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Assets/Wall_prefab.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Assets/Wall_prefab.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Collapsables/Collapsable.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Collapsables/Collapsable.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ExitGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DE1F8EF4-975B-4EAC-BEB0-ACCC1B22C9B0/4b/377cbe8d/TweenSettingsExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../RPG Full/RPG Project/Assets/Scripts/Control/ClickablePickup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D3B66F0A-D4E3-4A55-B6EF-91AB84878193/82/78783d2a/Scene.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.4.8/Editor/Extensions/TrackExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.test-framework@1.1.29/UnityEditor.TestRunner/TestRun/Tasks/BuildActionTaskBase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.services.core@1.0.1/Editor/Core/Networking/UnityWebRequestClient.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.15.12/Editor/Collaborate/UserInterface/CollaborateWindow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.4.8/Runtime/Evaluation/ScheduleRuntimeClip.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/31AD6C8C-7E7A-41D2-8463-FB5FA5736C3A/12/90c3a36d/AudioSource.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D3B66F0A-D4E3-4A55-B6EF-91AB84878193/3e/cfa37044/Material.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Argon Assault - udemy/Assets/Scripts/CollisionHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Argon Assault - udemy/Assets/Scripts/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Argon Assault - udemy/Assets/Scripts/Enemy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D3B66F0A-D4E3-4A55-B6EF-91AB84878193/1a/44ea0b28/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils/DOTweenStartup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D3B66F0A-D4E3-4A55-B6EF-91AB84878193/50/c1938050/Renderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Argon Assault - udemy/Assets/Scripts/MusicPlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Argon Assault - udemy/Assets/Scripts/SceneLoader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E99EE6D5-C968-4510-A35B-84C7173649F9/b3/e43fa914/CharacterController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Teleports/Teleport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Argon Assault - udemy/Assets/Scripts/FXSelfDestruct.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@10.8.1/Editor/2D/ShapeEditor/EditablePath/IEditablePathController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Collapsables/ShaderTransparencyEnabler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D3B66F0A-D4E3-4A55-B6EF-91AB84878193/de/571d6357/Color.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D3B66F0A-D4E3-4A55-B6EF-91AB84878193/36/d5c74504/AnimationCurve.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Helpers/DebugInEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mirror/Mirror.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/DE1F8EF4-975B-4EAC-BEB0-ACCC1B22C9B0/08/b2385e14/ShortcutExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/SmoothMethod.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/FillMethod.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/EmotionType.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Bars/EmotionBarFill.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Bars/FillSmoothMethod.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Bars/EmotionBarImage.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/EmotionBarEvent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Bars/EmotionBarUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Bars/BarFillImageUI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Utils/DOTweenStartup.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/Emotions.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/EmotionEvent.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/Emotion.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Bars/EmotionBar.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/NearbyEnemies.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/Invulnerability.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/ProtagonistController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Core/Singleton.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Enemy/OldGregorController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Teleports/Teleport.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Audio/PlayClipAtPoint.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Audio/PlayClipAtPointSO.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Mirror/Mirror.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Lumens/Lumen.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/Invulnerability.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/Emotion.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/Emotions.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Characters/Enemy/OldGregorController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/ProtagonistController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/Movement.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Audio/AudioManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/LoadScene.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UI/ExitGame.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Collapsables/StandardShaderUtils.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Collapsables/ShaderTransparencyEnabler.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Collapsables/Collapsable.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="25VjtCJICkNzTYLx85OzdvB6rxZ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35024026" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="869dc795-a2bf-41ed-a38e-45f40de53eec" name="Default Changelist" comment="" />
+      <created>1645619384452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645619384452</updated>
+      <workItem from="1645619386042" duration="6886000" />
+      <workItem from="1645628093055" duration="492000" />
+      <workItem from="1645628750716" duration="20145000" />
+      <workItem from="1645695124764" duration="5984000" />
+      <workItem from="1645722600295" duration="18267000" />
+      <workItem from="1645785582592" duration="1085000" />
+      <workItem from="1649189511017" duration="6052000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

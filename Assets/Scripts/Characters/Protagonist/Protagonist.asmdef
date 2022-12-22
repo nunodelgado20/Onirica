@@ -1,0 +1,19 @@
+{
+    "name": "Protagonist",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a6efd1b7079c00645b8dc34c12e0dd41",
+        "GUID:a93faccc33075694f801928f678a26bc",
+        "GUID:c88561a35a2f87f49bcc2241e78ecabe",
+        "GUID:b907aec6d981ec546896b469dfe8f2d0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

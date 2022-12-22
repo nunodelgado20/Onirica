@@ -1,0 +1,17 @@
+{
+    "name": "Collapsables",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c88561a35a2f87f49bcc2241e78ecabe",
+        "GUID:28f9086ed08827348b647c1c8a30f3b4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

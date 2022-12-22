@@ -1,0 +1,16 @@
+{
+    "name": "Door",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8f33f2ea232a34344a480f3e40b98979"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

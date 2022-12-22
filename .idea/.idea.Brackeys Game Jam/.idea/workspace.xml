@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="970b0af8-06d5-43cf-b0c9-ce5289533bb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Images/Game_Ending.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Images/Game_Ending.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Images/Game_Menu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Images/Game_Menu.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Images/Teclas_Menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Images/Teclas_Menu.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/ONIRICA_GAME MASTER1 MP3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/ONIRICA_GAME MASTER1 MP3.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/ONIRICA_MENU MASTER MP3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/ONIRICA_MENU MASTER MP3.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Textures/MenuVideo.renderTexture" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Textures/MenuVideo.renderTexture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Video/Game_Menu_1.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Video/Game_Menu_1.mp4.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Video/Game_Menu_2.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Art/Video/Game_Menu_2.mp4.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Door/TriggerVictory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Door/TriggerVictory.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/SceneAutoLoader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/UI/SceneAutoLoader.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Brackeys Game Jam/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Brackeys Game Jam/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Brackeys Game Jam/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Brackeys Game Jam/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Brackeys Game Jam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Brackeys Game Jam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Audio" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Audio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Audio.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Audio.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Fonts/TAN-PEARL SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Fonts/TAN-PEARL SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Video/Game Menu 1.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Video/Game Menu 1.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Video/Game Menu 1.mp4.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Video/Game Menu 1.mp4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Video/Game Menu 2.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Video/Game Menu 2.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Video/Game Menu 2.mp4.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Video/Game Menu 2.mp4.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Video/Quarto_simulation0300-0840.mkv" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Video/Quarto_simulation0300-0840.mkv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Video/Quarto_simulation0300-0840.mkv.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Video/Quarto_simulation0300-0840.mkv.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Assets/Mirror_Break.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Assets/Mirror_Break.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Characters/OldGregor.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Characters/OldGregor.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Characters/Protagonist.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Characters/Protagonist.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Environment.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Environment.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/UI/Menu/AudioMenu.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/UI/Menu/AudioMenu.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/UI/Menu/CreditsMenu.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/UI/Menu/CreditsMenu.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/UI/Menu/SubMenu.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/UI/Menu/SubMenu.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/GameOver/GameOverScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/GameOver/GameOverScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu/MainMenu.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu/MainMenu.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestMechanics/MainLevel.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestMechanics/MainLevel.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestMechanics/MainLevel/NavMesh.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestMechanics/MainLevel/NavMesh.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/TestMechanics/MainLevel/NavMesh.asset.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/TestMechanics/MainLevel/NavMesh.asset.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Victory/VictoryScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Victory/VictoryScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Characters/Enemy/OldGregorController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Characters/Enemy/OldGregorController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/Movement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/Movement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Door/Door.asmdef" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Door/Door.asmdef" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio/VolumeControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/Movement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/DetectCollapsablesDestionation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Door/FinalDoor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/Emotion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/AnimatorData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/Emotions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Door/Door.asmdef.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/SceneAutoLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Door/TriggerVictory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/Invulnerability.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/EmotionEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Door/Key.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/EmotionChangeSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@10.8.1/Runtime/Debugging/DebugUpdater.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Characters/GroundCheckers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mirror/MirrorPiece.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Characters/Enemy/OldGregorController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scenes/TestMechanics/MainLevel.unity" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Helpers/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Utils/DOTweenStartup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Characters/GroundChecker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/Collapsable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Helpers/DebugInEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mirror/Mirror.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Helpers/MathHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Animations/OnStateExitBool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/InputController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Lumens/Lumen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Prefabs/Assets/Barrel.prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ExitGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/LoadScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Mirror/MirrorBreak.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Teleports/Teleport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D3B66F0A-D4E3-4A55-B6EF-91AB84878193/05/1090c8fa/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio/PlayClipAtPointSO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/DetectCollapsables.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/InputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerAnimations.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMotions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/Protagonist.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/Movement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/AnimatorData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bars/FearBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bars/UIBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bars/BarImage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bars/EmotionType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/ProtagonistController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bars/UIBarFill.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bars/FillMethod.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bars/EmotionBarEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bars/EmotionBarEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/EmotionBarEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/Emotion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bars/EmotionBar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bars/EmotionBarImage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bars/EmotionBarFill.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/EmotionChange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/EmotionChangeSO.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/Emotions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Protagonist/IEmotionChange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio/VolumeControl.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Helpers/DebugInEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/InputController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Transparent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/CollapsablesDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Collapsable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mirror/MirrorPieces.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/FinalDoor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/Key.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/SceneName.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/LoadScene.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/DetectCollapsables.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mirror/MirrorBreak.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Core/DetectCollapsablesDestionation.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lumens/Lumen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mirror/Mirror.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Mirror/MirrorPiece.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/Invulnerability.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Characters/GroundChecker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Teleports/Teleport.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Door/Key.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/SceneAutoLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Door/TriggerVictory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Characters/Enemy/OldGregorController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Characters/Protagonist/Movement.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="25O781SslOPSaPwJjkiGTO74ubC" />
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="30684">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="30684" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="970b0af8-06d5-43cf-b0c9-ce5289533bb5" name="Default Changelist" comment="" />
+      <created>1645386117457</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645386117457</updated>
+      <workItem from="1645386123905" duration="3306000" />
+      <workItem from="1645393900811" duration="5033000" />
+      <workItem from="1645440340947" duration="7348000" />
+      <workItem from="1645465176684" duration="8140000" />
+      <workItem from="1645538173728" duration="1946000" />
+      <workItem from="1645830745270" duration="4858000" />
+      <workItem from="1645869380259" duration="1003000" />
+      <workItem from="1645876195768" duration="19039000" />
+      <workItem from="1645952088952" duration="3175000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

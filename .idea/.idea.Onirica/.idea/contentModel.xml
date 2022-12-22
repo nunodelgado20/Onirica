@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Unity Projects\Onirica" t="IncludeRecursive">
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="Demigiant" t="Include">
+            <e p="DOTween" t="Include">
+              <e p="Modules" t="Include">
+                <e p="DOTween.Modules.asmdef" t="Include" />
+                <e p="DOTweenModuleAudio.cs" t="Include" />
+                <e p="DOTweenModuleEPOOutline.cs" t="Include" />
+                <e p="DOTweenModulePhysics.cs" t="Include" />
+                <e p="DOTweenModulePhysics2D.cs" t="Include" />
+                <e p="DOTweenModuleSprite.cs" t="Include" />
+                <e p="DOTweenModuleUI.cs" t="Include" />
+                <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+                <e p="DOTweenModuleUtils.cs" t="Include" />
+              </e>
+              <e p="readme.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Animations" t="Include">
+            <e p="OnStateExitBool.cs" t="Include" />
+          </e>
+          <e p="Audio" t="Include">
+            <e p="Audio.asmdef" t="Include" />
+            <e p="AudioManager.cs" t="Include" />
+            <e p="PlayClipAtPointSO.cs" t="Include" />
+            <e p="VolumeControl.cs" t="Include" />
+          </e>
+          <e p="Characters" t="Include">
+            <e p="Characters.asmdef" t="Include" />
+            <e p="Enemy" t="Include">
+              <e p="Enemy.asmdef" t="Include" />
+              <e p="OldGregorController.cs" t="Include" />
+            </e>
+            <e p="GroundChecker.cs" t="Include" />
+            <e p="GroundCheckers.cs" t="Include" />
+            <e p="Protagonist" t="Include">
+              <e p="AnimatorData.cs" t="Include" />
+              <e p="Emotion.cs" t="Include" />
+              <e p="EmotionChangeSO.cs" t="Include" />
+              <e p="EmotionEvent.cs" t="Include" />
+              <e p="Emotions.cs" t="Include" />
+              <e p="EmotionType.cs" t="Include" />
+              <e p="IEmotionChange.cs" t="Include" />
+              <e p="Invulnerability.cs" t="Include" />
+              <e p="Movement.cs" t="Include" />
+              <e p="NearbyEnemies.cs" t="Include" />
+              <e p="Protagonist.asmdef" t="Include" />
+            </e>
+          </e>
+          <e p="Collapsables" t="Include">
+            <e p="Collapsable.cs" t="Include" />
+            <e p="Collapsables.asmdef" t="Include" />
+            <e p="DetectCollapsables.cs" t="Include" />
+            <e p="DetectCollapsablesDestination.cs" t="Include" />
+            <e p="ITriggerCollapsables.cs" t="Include" />
+            <e p="ShaderTransparencyEnabler.cs" t="Include" />
+          </e>
+          <e p="Core" t="Include">
+            <e p="Core.asmdef" t="Include" />
+            <e p="InputController.cs" t="Include" />
+          </e>
+          <e p="Door" t="Include">
+            <e p="Door.asmdef" t="Include" />
+            <e p="FinalDoor.cs" t="Include" />
+            <e p="Key.cs" t="Include" />
+            <e p="TriggerVictory.cs" t="Include" />
+          </e>
+          <e p="Helpers" t="Include">
+            <e p="DebugInEditor.cs" t="Include" />
+            <e p="Helpers.asmdef" t="Include" />
+            <e p="MathHelper.cs" t="Include" />
+            <e p="Singleton.cs" t="Include" />
+          </e>
+          <e p="Lumens" t="Include">
+            <e p="Lumen.cs" t="Include" />
+            <e p="Lumens.asmdef" t="Include" />
+          </e>
+          <e p="Mirror" t="Include">
+            <e p="Mirror.asmdef" t="Include" />
+            <e p="Mirror.cs" t="Include" />
+            <e p="MirrorBreak.cs" t="Include" />
+            <e p="MirrorPiece.cs" t="Include" />
+          </e>
+          <e p="Teleports" t="Include">
+            <e p="Teleport.asmdef" t="Include" />
+            <e p="Teleport.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="Bars" t="Include">
+              <e p="BarFillImageUI.cs" t="Include" />
+              <e p="Bars.asmdef" t="Include" />
+              <e p="EmotionBar.cs" t="Include" />
+              <e p="EmotionBarUI.cs" t="Include" />
+              <e p="FillSmoothMethod.cs" t="Include" />
+            </e>
+            <e p="ExitGame.cs" t="Include" />
+            <e p="LoadScene.cs" t="Include" />
+            <e p="SceneAutoLoader.cs" t="Include" />
+            <e p="UI.asmdef" t="Include" />
+          </e>
+          <e p="Utils" t="Include">
+            <e p="DOTweenStartup.cs" t="Include" />
+            <e p="Utils.asmdef" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+            <e p="EmojiOne.json" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Audio.csproj" t="IncludeRecursive" />
+      <e p="Bars.csproj" t="IncludeRecursive" />
+      <e p="Characters.csproj" t="IncludeRecursive" />
+      <e p="Collapsables.csproj" t="IncludeRecursive" />
+      <e p="Core.csproj" t="IncludeRecursive" />
+      <e p="Door.csproj" t="IncludeRecursive" />
+      <e p="DOTween.Modules.csproj" t="IncludeRecursive" />
+      <e p="Helpers.csproj" t="IncludeRecursive" />
+      <e p="Lumens.csproj" t="IncludeRecursive" />
+      <e p="Mirror.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="OldGregor.csproj" t="IncludeRecursive" />
+      <e p="Onirica.sln" t="IncludeFlat" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Protagonist.csproj" t="IncludeRecursive" />
+      <e p="Teleport.csproj" t="IncludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+      <e p="UI.csproj" t="IncludeRecursive" />
+      <e p="Utils.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="C:\Users\delga\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\delga\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Onirica.-743612700.00" t="ExcludeRecursive" />
+  </component>
+</project>
